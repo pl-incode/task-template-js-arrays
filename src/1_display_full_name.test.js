@@ -1,4 +1,4 @@
-const displayFullName = require("./display_full_name");
+const displayFullName = require("./1_display_full_name");
 
 let consoleSpy;
 
